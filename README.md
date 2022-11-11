@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h2 align="center">A Fullstack developer</h2>
+<h3 align="center">A Fullstack developer</h3>
 
 📫 How to reach me **gabrielicmusa@gmail.com**
 
