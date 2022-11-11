@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A Fullstack developer from Brazil</h3>
+<h2 align="center">A Fullstack developer</h2>
 
-- 📫 How to reach me **gabrielicmusa@gmail.com**
+📫 How to reach me **gabrielicmusa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
