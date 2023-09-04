@@ -43,10 +43,8 @@
 
 ###
 
-<div align="left">
-  ![](https://raw.githubusercontent.com/SpookyEngineer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
   ![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-</div>
 
 ###
 
