@@ -44,7 +44,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpookyEngineer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  ![](https://raw.githubusercontent.com/SpookyEngineer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </div>
 
 ###
