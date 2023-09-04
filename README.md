@@ -6,17 +6,6 @@
   <img src="https://profile-counter.glitch.me/SpookyEngineer/count.svg?"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/spookyengineer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:gabrielicmusa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,php)](https://skillicons.dev)
 
@@ -25,6 +14,14 @@
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+
+## Connect with me
+
+[<img alt="LinkedIn" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
+[<img alt="E-mail" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/gmail.png" />][gmail] 
+
+[linkedin]: https://www.linkedin.com/in/spookyengineer/
+[gmail]: mailto:gabrielicmusa@gmail.com
 
 ## Stats
 ![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
