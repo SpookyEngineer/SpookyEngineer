@@ -13,13 +13,13 @@ However, my curiosity and determination extend beyond Front-End development alon
 
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,php,graphql)](https://skillicons.dev)
 
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,nodejs,react)](https://skillicons.dev)
+## Frameworks/Libraries
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,nodejs,react,tailwind)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker,postman)](https://skillicons.dev)
 
 ## Connect with me
 
