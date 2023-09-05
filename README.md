@@ -19,7 +19,7 @@ However, my curiosity and determination extend beyond Front-End development alon
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,nodejs,react)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,docker)](https://skillicons.dev)
 
 ## Connect with me
 
