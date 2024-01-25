@@ -2,7 +2,7 @@
 
 <div align="center">
   
-I'm a passionate Front-End developer with a solid understanding of Full-Stack development. With a keen eye for aesthetics and a drive to create engaging user experiences, I strive to bridge the gap between design and functionality.
+I'm a passionate Full-Stack developer with a solid understanding of Full-Stack development. With a keen eye for aesthetics and a drive to create engaging user experiences, I strive to bridge the gap between design and functionality.
   
 Throughout my journey, I have honed my skills in HTML, CSS, and JavaScript, enabling me to bring captivating website designs to life. I am well-versed in the latest Front-End frameworks such as Vue.js and React.js, leveraging their power to build scalable and responsive applications.
 
