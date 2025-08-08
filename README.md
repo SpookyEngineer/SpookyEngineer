@@ -29,17 +29,3 @@ However, my curiosity and determination extend beyond Front-End development alon
 
 [linkedin]: https://www.linkedin.com/in/spookyengineer/
 [gmail]: mailto:gabrielicmusa@gmail.com
-[resume]: https://flowcv.com/resume/v0m15436n8
-
-## Stats
-![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/spookyengineer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spookyengineer/spookyengineer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spookyengineer/spookyengineer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/spookyengineer/spookyengineer/output/github-contribution-grid-snake.svg">
-</picture>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SpookyEngineer/count.svg?"  />
-</div>
