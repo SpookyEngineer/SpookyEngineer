@@ -25,7 +25,6 @@ However, my curiosity and determination extend beyond Front-End development alon
 
 [<img alt="LinkedIn" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/linkedin.png"/>][linkedin]
 [<img alt="E-mail" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/gmail.png" />][gmail]
-[<img alt="Resume" align="center" height="60px" src="https://img.icons8.com/fluency/96/000000/resume.png" />][resume]
 
 [linkedin]: https://www.linkedin.com/in/spookyengineer/
 [gmail]: mailto:gabrielicmusa@gmail.com
