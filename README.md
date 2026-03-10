@@ -1,16 +1,5 @@
 # Hi! I'm Gabriel 🌙
 
-<div align="center">
-  
-I'm a passionate Full-Stack developer with a solid understanding of Full-Stack development. With a keen eye for aesthetics and a drive to create engaging user experiences, I strive to bridge the gap between design and functionality.
-  
-Throughout my journey, I have honed my skills in HTML, CSS, and JavaScript, enabling me to bring captivating website designs to life. I am well-versed in the latest Front-End frameworks such as Vue.js and React.js, leveraging their power to build scalable and responsive applications.
-
-However, my curiosity and determination extend beyond Front-End development alone. I possess a comprehensive understanding of the broader Full-Stack development landscape, encompassing Back-End technologies like Node.js, and Python.
-</div>
-
-
-
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py,php,graphql&theme=dark)](https://skillicons.dev)
